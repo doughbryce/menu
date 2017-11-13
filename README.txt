@@ -1,0 +1,1 @@
+Create a pop-out menu. When you click a button, the menu pops out from the left. When you hover over each menu option, the title should change color. If you click the X on the top right of the screen, the menu closes. The links in the menu don't have to do anything at this point.
